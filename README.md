@@ -30,7 +30,22 @@
       </tr>
     </table>
     <h2>What I want to learn</h2>
-    <table></table>
+    <table align="center">
+      <tr>
+        <td align="center" width="90">
+          <img src="./images/nodedotjs.svg" width="45" height="45">
+          <br>NodeJS
+        </td>
+        <td align="center" width="90">
+          <img src="./images/mysql.svg" width="45" height="45">
+          <br>My SQL
+        </td>
+        <td align="center" width="90">
+          <img src="./images/react.svg" width="45" height="45">
+          <br>React
+        </td>
+      </tr>
+    </table>
   </div>
 </main>
 
