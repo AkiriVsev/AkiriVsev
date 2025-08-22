@@ -41,7 +41,7 @@
           <br>My SQL
         </td>
         <td align="center" width="90">
-          <img src="./images/react.svg" width="45" height="45">
+          <img src="./images/" width="45" height="45">
           <br>React
         </td>
       </tr>
