@@ -56,7 +56,16 @@
           <img src="./images/typescript.svg" width="45" height="45">
           <br>TypeScript
         </td>
+        <td align="center" width="90">
+          <img src="./images/php.svg" width="45" height="45">
+          <br>Sass
+        </td>
+        <td align="center" width="90">
+          <img src="./images/redux.svg" width="45" height="45">
+          <br>TypeScript
+        </td>
       </tr>
+      
     </table>
   </div>
 </main>
