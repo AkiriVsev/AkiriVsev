@@ -65,7 +65,6 @@
           <br>TypeScript
         </td>
       </tr>
-      
     </table>
   </div>
 </main>
