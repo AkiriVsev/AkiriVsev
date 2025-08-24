@@ -44,6 +44,18 @@
           <img src="./images/react.svg" width="45" height="45">
           <br>React
         </td>
+        <td align="center" width="90">
+          <img src="./images/angular.svg" width="45" height="45">
+          <br>Angular
+        </td>
+        <td align="center" width="90">
+          <img src="./images/sass.svg" width="45" height="45">
+          <br>Sass
+        </td>
+        <td align="center" width="90">
+          <img src="./images/typescript.svg" width="45" height="45">
+          <br>TypeScript
+        </td>
       </tr>
     </table>
   </div>
