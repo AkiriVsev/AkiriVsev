@@ -6,6 +6,10 @@
     <h2>About me⭐</h2>
     <p>I'm 18 years old programist from Ukrain. Front-end devoloper. Started learning programming 2 years ago and finished many courses online. I plan to improve my skills and abilities in IT. I am also studying graphic design, 3D graphics, video editing.</p>
   </div>
+  <div>
+    <h2>Language</h2>
+    
+  </div>
   <div id="my-skils-box">
     <h2>My skils 🛠</h2>
     <p>I may not know many tools and languages, but I work very hard and will learn them all in the future.</p>
@@ -101,7 +105,11 @@
       </tr>
     </table>
   </div>
+  <div id="stats">
+    <h2>My stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirivsev">
+  </div>
 </main>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akirivsev)
+
