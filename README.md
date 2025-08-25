@@ -65,6 +65,40 @@
           <br>TypeScript
         </td>
       </tr>
+      <tr>
+        <td align="center" width="90">
+          <img src="./images/bem.svg" width="45" height="45">
+          <br>BEM
+        </td>
+        <td align="center" width="90">
+          <img src="./images/c.svg" width="45" height="45">
+          <br>C
+        </td>
+        <td align="center" width="90">
+          <img src="./images/icons8-c-sharp-logo.svg" width="45" height="45">
+          <br>C#
+        </td>
+        <td align="center" width="90">
+          <img src="./images/jquery.svg" width="45" height="45">
+          <br>Jquery
+        </td>
+        <td align="center" width="90">
+          <img src="./images/python.svg" width="45" height="45">
+          <br>Python
+        </td>
+        <td align="center" width="90">
+          <img src="./images/vuedotjs.svg" width="45" height="45">
+          <br>Vue JS
+        </td>
+        <td align="center" width="90">
+          <img src="./images/webpack.svg" width="45" height="45">
+          <br>Webpack
+        </td>
+        <td align="center" width="115">
+          <img src="./images/tailwindcss.svg" width="45" height="45">
+          <br>Tailwind CSS
+        </td>
+      </tr>
     </table>
   </div>
 </main>
