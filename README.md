@@ -66,7 +66,7 @@
         </td>
         <td align="center" width="90">
           <img src="./images/redux.svg" width="45" height="45">
-          <br>TypeScript
+          <br>Redux
         </td>
         <td align="center" width="90">
           <img src="./images/cplusplus.svg" width="45" height="45">
