@@ -62,7 +62,7 @@
         </td>
         <td align="center" width="90">
           <img src="./images/php.svg" width="45" height="45">
-          <br>Sass
+          <br>PHP
         </td>
         <td align="center" width="90">
           <img src="./images/redux.svg" width="45" height="45">
