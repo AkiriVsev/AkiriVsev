@@ -4,7 +4,7 @@
 <main>
   <div id="about-me">
     <h2>About me⭐</h2>
-    <p>I'm 18 years old programist from Ukrain. Front-end devoloper. Started learning programming 2 years ago and finished many courses online. I plan to improve my skills and abilities in IT. I am also studying graphic design, 3D graphics, video editing.</p>
+    <p>I'm 19 years old programist from Ukraine. Front-end devoloper. Started learning programming 2 years ago and finished many courses online. I plan to improve my skills and abilities in IT. I am also studying graphic design, 3D graphics, video editing.</p>
   </div>
   <div>
     <h2>Language</h2>
@@ -31,15 +31,15 @@
           <img src="./images/git.svg" width="45" height="45">
           <br>Git
         </td>
+        <td align="center" width="90">
+          <img src="./images/nodedotjs.svg" width="45" height="45">
+          <br>NodeJS
+        </td>
       </tr>
     </table>
     <h2>What I want to learn</h2>
     <table align="center">
       <tr>
-        <td align="center" width="90">
-          <img src="./images/nodedotjs.svg" width="45" height="45">
-          <br>NodeJS
-        </td>
         <td align="center" width="90">
           <img src="./images/mysql.svg" width="45" height="45">
           <br>My SQL
@@ -67,6 +67,10 @@
         <td align="center" width="90">
           <img src="./images/redux.svg" width="45" height="45">
           <br>TypeScript
+        </td>
+        <td align="center" width="90">
+          <img src="./images/cplusplus.svg" width="45" height="45">
+          <br>C++
         </td>
       </tr>
       <tr>
