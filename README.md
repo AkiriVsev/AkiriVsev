@@ -77,10 +77,10 @@ studying graphic design, 3D graphics, and video editing on the side.
  
 <!-- 👉 INSERT: replace REPO_NAME with your actual repository names (2-6 pinned projects work best) -->
  
-<a href="https://github.com/AkiriVsev/REPO_NAME_1">
+<a href="[https://github.com/AkiriVsev/Coursework](https://github.com/AkiriVsev/Coursework)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=REPO_NAME_1&theme=github_dark&title_color=FF8A00&icon_color=FF8A00&text_color=c9d1d9&hide_border=true" />
 </a>
-<a href="https://github.com/AkiriVsev/REPO_NAME_2">
+<a href="[https://github.com/AkiriVsev/WebStudio](https://github.com/AkiriVsev/WebStudio)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=REPO_NAME_2&theme=github_dark&title_color=FF8A00&icon_color=FF8A00&text_color=c9d1d9&hide_border=true" />
 </a>
 </div>
