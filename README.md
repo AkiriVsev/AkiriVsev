@@ -129,17 +129,8 @@ const seva = {
 ## 📊 The Engine Room — GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AkiriVsev&show_icons=true&theme=github_dark&hide_border=true&title_color=D4A017&icon_color=B87333&text_color=E8D5B7&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiriVsev&layout=compact&theme=github_dark&hide_border=true&title_color=D4A017&text_color=E8D5B7&bg_color=0D1117" height="165"/>
-
 <img src="https://streak-stats.demolab.com/?user=AkiriVsev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D4A017&fire=B87333&currStreakLabel=D4A017"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkiriVsev&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
-
 </div>
-
-## 📈 Activity Log
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkiriVsev&theme=react-dark&color=D4A017&line=B87333&point=F5E6C8&hide_border=true&bg_color=0D1117" width="100%"/>
@@ -158,8 +149,6 @@ A small automaton that crawls across my contribution grid and devours every squa
   <img alt="A copper-and-brass snake eating the contribution graph" src="https://raw.githubusercontent.com/AkiriVsev/AkiriVsev/output/github-snake.svg" width="100%"/>
 </picture>
 </div>
-
-> 🔧 *One-time setup required — add the included `snake.yml` to `.github/workflows/` in this repo to switch it on (steps in chat).*
 
 <p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
 
