@@ -119,10 +119,6 @@ const seva = {
 
 **[WebStudio](https://github.com/AkiriVsev/WebStudio)** — a personal training ground for front-end fundamentals, combining HTML, CSS, JavaScript, and Bootstrap into portfolio-ready pages.
 
-<div align="center">
-<a href="https://github.com/AkiriVsev/Coursework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=Coursework&theme=github_dark&title_color=D4A017&icon_color=B87333&text_color=E8D5B7&bg_color=0D1117&hide_border=true"/></a>
-<a href="https://github.com/AkiriVsev/WebStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=WebStudio&theme=github_dark&title_color=D4A017&icon_color=B87333&text_color=E8D5B7&bg_color=0D1117&hide_border=true"/></a>
-</div>
 
 <p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
 
