@@ -1,157 +1,175 @@
-<!-- =====================================================
-     PORTFOLIO README — Seva
-     Orange palette · Centered section titles · No emojis
-     Animated header/footer + typing effect kept
-     Look for 👉 INSERT comments below — replace those values
-===================================================== -->
-
-<!-- ===================== HEADER ===================== -->
 <div align="center">
+     
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B0E,50:8B5A2B,100:D4A017&height=230&section=header&text=Hi%20there%2C%20I%27m%20Seva&fontSize=42&fontColor=F5E6C8&animation=fadeIn&fontAlignY=36&desc=Front-end%20Developer&descAlignY=58&descSize=18&descColor=E8D5B7" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,100:FF3D00&height=230&section=header&text=Hi%20there,%20I'm%20Seva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-end%20Developer%20from%20Ukraine&descAlignY=53&descSize=18" width="100%"/>
-
-<!-- 👉 INSERT: keep or edit the typing lines below (each line = one phrase in the animation) -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;Learning+React+%26+TypeScript;Graphic+Design+%26+3D+Enthusiast;Always+curious%2C+always+building;&font=Fira+Code&center=true&width=520&height=45&color=FF8A00&vCenter=true&size=22"/>
-
-</div>
+<a href="https://github.com/AkiriVsev">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=650&height=50&lines=Turning+ideas+into+interfaces%2C+gear+by+gear;Front-end+Developer+from+Ukraine;Currently+building+React+and+TypeScript+skills;Powered+by+curiosity%2C+coffee+%26+cogwheels" alt="Typing SVG"/>
+</a>
 
 <br>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
-<div align="center">
-
-<!-- 👉 INSERT: replace each URL with your real profile link. Delete any badge you don't need -->
-<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-FF8A00?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-FF3D00?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-FF6D00?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-E65100?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-D4A017?style=for-the-badge&labelColor=1B1410"/>
+<img src="https://komarev.com/ghpvc/?username=AkiriVsev&color=D4A017&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/AkiriVsev?style=for-the-badge&color=B87333&labelColor=1B1410&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/LOCATION-UKRAINE-8B5A2B?style=for-the-badge&labelColor=1B1410"/>
 
 </div>
 
-<br>
+<p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
 
-<!-- ===================== ABOUT ===================== -->
-<div align="center">
+## ⚙️ About This Engineer
 
-## About me
+> *"Every great machine starts as a rough sketch — and every good developer starts as a curious beginner."*
 
-</div>
+Front-end developer based in **Ukraine**, on a hands-on, self-taught path into software engineering. Over the past two years I've built a solid foundation in modern web development — working steadily through project-based courses and turning theory into real, working code. I'm currently deepening my stack with **React, TypeScript, and Node.js**, with the goal of growing into a well-rounded front-end (and eventually full-stack) engineer.
 
-<!-- 👉 INSERT: edit the yaml block with your own facts if anything changes -->
-```yaml
-name: Seva
-age: 19
-location: Ukraine
-role: Front-end Developer
-started_coding: 2 years ago
-currently_learning: [React, TypeScript, Node.js]
-also_interested_in: [Graphic Design, 3D Graphics, Video Editing]
+Outside of code, I study **graphic design, 3D graphics, and video editing** — creative disciplines that sharpen my eye for layout, detail, and motion, and that I bring directly into the interfaces I build. I care about clean, maintainable code, I learn in public, and I'm actively looking for opportunities to put what I've built so far to work on real, meaningful projects.
+
+```js
+const seva = {
+  role: "Front-end Developer",
+  location: "Ukraine",
+  age: 19,
+  currentFocus: ["React", "TypeScript", "Node.js"],
+  alsoExploring: ["Graphic Design", "3D Graphics", "Video Editing"],
+  motto: "Build it clean. Build it once. Keep the gears turning. ⚙️",
+};
 ```
 
-I am a 19-year-old front-end developer from Ukraine. I started learning
-programming two years ago and have completed several online courses.
-My goal is to keep improving my skills in web development, and I am also
-studying graphic design, 3D graphics, and video editing on the side.
+<p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
 
-<br>
+## 🗣️ Languages
 
-<!-- ===================== LANGUAGES ===================== -->
 <div align="center">
 
-## Languages I speak
-
-<!-- 👉 INSERT: adjust levels / add or remove languages -->
 | Language | Level |
-|:---:|:---:|
+|---|---|
 | Ukrainian | Native |
 | English | Intermediate |
 
 </div>
 
+<p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
+
+## 🔧 Core Machinery — Tools I Already Wield
+
+<p align="center">Small toolkit, strong fundamentals — the parts I already know how to assemble.</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="./images/html5.svg" width="45" height="45">
+      <br>HTML 5
+    </td>
+    <td align="center" width="90">
+      <img src="./images/css.svg" width="45" height="45">
+      <br>CSS 3
+    </td>
+    <td align="center" width="90">
+      <img src="./images/javascript.svg" width="45" height="45">
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="./images/git.svg" width="45" height="45">
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="./images/nodedotjs.svg" width="45" height="45">
+      <br>NodeJS
+    </td>
+  </tr>
+</table>
+
+## 🔩 Blueprints in Progress — What I'm Building Toward
+
+<details>
+<summary><b>📜 Click to unroll the schematic</b></summary>
 <br>
 
-<!-- ===================== SKILLS ===================== -->
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="./images/mysql.svg" width="45" height="45"><br>MySQL</td>
+    <td align="center" width="90"><img src="./images/react.svg" width="45" height="45"><br>React</td>
+    <td align="center" width="90"><img src="./images/angular.svg" width="45" height="45"><br>Angular</td>
+    <td align="center" width="90"><img src="./images/sass.svg" width="45" height="45"><br>Sass</td>
+    <td align="center" width="90"><img src="./images/typescript.svg" width="45" height="45"><br>TypeScript</td>
+    <td align="center" width="90"><img src="./images/php.svg" width="45" height="45"><br>PHP</td>
+    <td align="center" width="90"><img src="./images/redux.svg" width="45" height="45"><br>Redux</td>
+    <td align="center" width="90"><img src="./images/cplusplus.svg" width="45" height="45"><br>C++</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="./images/bem.svg" width="45" height="45"><br>BEM</td>
+    <td align="center" width="90"><img src="./images/c.svg" width="45" height="45"><br>C</td>
+    <td align="center" width="90"><img src="./images/icons8-c-sharp-logo.svg" width="45" height="45"><br>C#</td>
+    <td align="center" width="90"><img src="./images/jquery.svg" width="45" height="45"><br>jQuery</td>
+    <td align="center" width="90"><img src="./images/python.svg" width="45" height="45"><br>Python</td>
+    <td align="center" width="90"><img src="./images/vuedotjs.svg" width="45" height="45"><br>Vue JS</td>
+    <td align="center" width="90"><img src="./images/webpack.svg" width="45" height="45"><br>Webpack</td>
+    <td align="center" width="115"><img src="./images/tailwindcss.svg" width="45" height="45"><br>Tailwind CSS</td>
+  </tr>
+</table>
+
+</details>
+
+<p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
+
+## 🏗️ Featured Projects
+
+**[Coursework](https://github.com/AkiriVsev/Coursework)** — a university coursework project: a student-list management site with dynamic editing, built in vanilla JavaScript to practice DOM manipulation and CRUD-style logic.
+
+**[WebStudio](https://github.com/AkiriVsev/WebStudio)** — a personal training ground for front-end fundamentals, combining HTML, CSS, JavaScript, and Bootstrap into portfolio-ready pages.
+
 <div align="center">
-
-## My Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git&theme=dark" />
-
+<a href="https://github.com/AkiriVsev/Coursework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=Coursework&theme=github_dark&title_color=D4A017&icon_color=B87333&text_color=E8D5B7&bg_color=0D1117&hide_border=true"/></a>
+<a href="https://github.com/AkiriVsev/WebStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=WebStudio&theme=github_dark&title_color=D4A017&icon_color=B87333&text_color=E8D5B7&bg_color=0D1117&hide_border=true"/></a>
 </div>
 
-<br>
+<p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
 
-<div align="center">
-
-## What I'm learning next
-
-<img src="https://skillicons.dev/icons?i=react,ts,mysql,sass,angular,redux,php,cpp&theme=dark" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=c,cs,jquery,py,vue,webpack,tailwind&theme=dark" />
-
-</div>
-
-<br>
-
-<!-- ===================== PROJECTS ===================== -->
-<div align="center">
-
-## Featured Projects
-
-<!-- 👉 INSERT: replace REPO_NAME with your actual repository names (2-6 pinned projects work best) -->
-
-<a href="https://github.com/AkiriVsev/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=REPO_NAME_1&theme=github_dark&title_color=FF8A00&icon_color=FF8A00&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/AkiriVsev/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiriVsev&repo=REPO_NAME_2&theme=github_dark&title_color=FF8A00&icon_color=FF8A00&text_color=c9d1d9&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ===================== STATS ===================== -->
-<div align="center">
-
-## GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkiriVsev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=FF8A00&icon_color=FF8A00&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiriVsev&layout=compact&theme=github_dark&hide_border=true&title_color=FF8A00&text_color=c9d1d9" />
-
-</div>
+## 📊 The Engine Room — GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AkiriVsev&theme=github-dark-blue&hide_border=true&ring=FF8A00&fire=FF3D00&currStreakLabel=FF8A00" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkiriVsev&show_icons=true&theme=github_dark&hide_border=true&title_color=D4A017&icon_color=B87333&text_color=E8D5B7&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiriVsev&layout=compact&theme=github_dark&hide_border=true&title_color=D4A017&text_color=E8D5B7&bg_color=0D1117" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=AkiriVsev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D4A017&fire=B87333&currStreakLabel=D4A017"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkiriVsev&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
 
 </div>
+
+## 📈 Activity Log
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkiriVsev&theme=onedark&no-frame=true&row=1&column=6" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkiriVsev&theme=react-dark&color=D4A017&line=B87333&point=F5E6C8&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
-<br>
+<p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 🐍 The Mechanical Serpent
+
+A small automaton that crawls across my contribution grid and devours every square I've filled in — a self-updating piece of kinetic art for the workshop wall, redrawn automatically every 12 hours.
+
 <div align="center">
-
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkiriVsev&theme=react-dark&color=FF8A00&line=FF3D00&point=ffffff&hide_border=true" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkiriVsev/AkiriVsev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkiriVsev/AkiriVsev/output/github-snake.svg"/>
+  <img alt="A copper-and-brass snake eating the contribution graph" src="https://raw.githubusercontent.com/AkiriVsev/AkiriVsev/output/github-snake.svg" width="100%"/>
+</picture>
 </div>
 
-<br>
+> 🔧 *One-time setup required — add the included `snake.yml` to `.github/workflows/` in this repo to switch it on (steps in chat).*
 
-<!-- ===================== FOOTER ===================== -->
+<p align="center">⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️ ✦ ⚙️</p>
+
+## 📡 Get In Touch
+
 <div align="center">
-
-<!-- 👉 INSERT: username is already set to AkiriVsev — change it everywhere in this file if your GitHub handle differs -->
-![Profile Views](https://komarev.com/ghpvc/?username=AkiriVsev&color=FF8A00&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3D00,100:FF8A00&height=120&section=footer"/>
-
+<a href="t.me/Xasteo"><img src="https://img.shields.io/badge/Telegram-8B5A2B?style=for-the-badge&logo=telegram&logoColor=F5E6C8"/></a>
+<a href="demcooskme@gmail.com"><img src="https://img.shields.io/badge/Email-6B4423?style=for-the-badge&logo=gmail&logoColor=F5E6C8"/></a>
+<a href="https://www.linkedin.com/in/%D0%B2%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4-%D0%B7%D0%B0%D0%B9%D1%86%D0%B5%D0%B2-178857413/"><img src="https://img.shields.io/badge/LinkedIn-B87333?style=for-the-badge&logo=linkedin&logoColor=F5E6C8"/></a>
+<a href="https://www.instagram.com/xasteo_?igsh=MXFzb2plcng3aHY3NA=="><img src="https://img.shields.io/badge/Instagram-D4A017?style=for-the-badge&logo=instagram&logoColor=1B1410"/></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A017,50:8B5A2B,100:2B1B0E&height=120&section=footer&text=Thanks%20for%20visiting%20the%20workshop%20%E2%9A%99%EF%B8%8F&fontSize=16&fontColor=F5E6C8&animation=fadeIn" width="100%"/>
